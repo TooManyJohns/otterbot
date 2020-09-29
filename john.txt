@@ -1,3 +1,7 @@
 johntxx text
 
+<<<<<<< HEAD
 yttt
+=======
+ttt
+>>>>>>>  test
